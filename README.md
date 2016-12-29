@@ -3,7 +3,7 @@ Pig_Tracker_v2
 
 A Tracking application in Python.</br>
 
-![Alt](https://lh6.googleusercontent.com/KxYJxdAdGY0gLpKmWOMnVWqjF74qmyTLjyVR0U8xz1wj9O1XglektSAPI2Y-V7aJdX7u7YhavhYFSj0=w1280-h712 "original")</br>
+![Alt](/src/main_menu.png "original")</br>
 ![Alt](https://lh4.googleusercontent.com/KMQFpFd0WrYmQps2LM7gYNX3PmkGWG6RZS_w7cEPx89NeCddIVIB9Fn-OERJzKznxqd8Z_BK2YVhVLc=w1280-h712 "original")</br>
 
 * <h2>Wifi</h2></br>
